@@ -13,5 +13,6 @@ mkdir build
 cd build
 cmake ..
 make
-./bin/club_monitor
+cp ../example.txt bin
+./bin/club_monitor example.txt
 ```
