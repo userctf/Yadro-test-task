@@ -14,5 +14,6 @@ cd build
 cmake ..
 make
 cp ../example.txt bin
-./bin/club_monitor example.txt
+cd bin
+./club_monitor example.txt
 ```
