@@ -1,0 +1,1 @@
+add_library(club club.cpp)
